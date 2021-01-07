@@ -1,0 +1,6 @@
+POST http://localhost:8080/api/url/shorten
+Content-Type: application/json
+
+{
+    "longUrl": "https://www.google.com/search?q=warning%3A+LF+will+be+replaced+by+CRLF+in+node_modules%2Flodash-es%2F_baseValues.js.+The+file+will+have+its+original+line+endings+in+your+working+directory&oq=warning%3A+LF+will+be+replaced+by+CRLF+in+node_modules%2Flodash-es%2F_baseValues.js.+The+file+will+have+its+original+line+endings+in+your+working+directory&aqs=chrome..69i57j69i58.3139j0j7&sourceid=chrome&ie=UTF-8"
+}
